@@ -10,14 +10,14 @@ Flutter app is developed using [Android Studio](https://developer.android.com/st
 
 <img src="views/home.png" width="300"> <img src="views/stars.png" width="300"> <img src="views/forks.png" width="300">
 
-<div class="column">
-  <div class="row">
+<div class="row">
+  <div class="column">
     <img src="views/home.png" alt="Home" width="300">
   </div>
-  <div class="row">
+  <div class="column">
     <img src="views/stars.png" alt="Stars" width="300">
   </div>
-  <div class="row">
+  <div class="column">
     <img src="views/forks.png" alt="Forks" width="300">
   </div>
 </div>
