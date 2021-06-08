@@ -48,13 +48,13 @@ Flutter app is developed using [Android Studio](https://developer.android.com/st
 
 <div class="row">
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="views/home.png" alt="Home" width="300">
   </div>
   <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="views/stars.png" alt="Stars" width="300">
   </div>
   <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="views/forks.png" alt="Forks" width="300">
   </div>
 </div>
 
