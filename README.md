@@ -20,43 +20,6 @@ Flutter app is developed using [Android Studio](https://developer.android.com/st
   </div>
 </div>
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
-
-<div class="row">
-  <div class="column">
-    <img src="views/home.png" alt="Home" width="300">
-  </div>
-  <div class="column">
-    <img src="views/stars.png" alt="Stars" width="300">
-  </div>
-  <div class="column">
-    <img src="views/forks.png" alt="Forks" width="300">
-  </div>
-</div>
-
-</body>
-</html>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="views/home.png" alt="Home" width="300">  |  <img src="views/stars.png" alt="Stars" width="300">
